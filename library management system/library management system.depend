@@ -1,0 +1,11 @@
+# depslib dependency file v1.0
+1719243420 source:c:\users\ak134\onedrive\desktop\library management system\main.cpp
+	<iostream>
+	<fstream>
+	<iomanip>
+	<cstring>
+	<cstdlib>
+	<limits>
+	<cstdio>
+	<windows.h>
+
